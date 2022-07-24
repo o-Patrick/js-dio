@@ -1,9 +1,11 @@
 # js-dio
-Repository containing some JavaScript exercises I did during a few courses at Digital Innovation One
+Repository containing some JavaScript exercises I did during a few courses at Digital Innovation One.
+
+Some of the following exercises were made with an index page while the others will redirect you to the repository on github.com
 
 - [colecoes](https://o-patrick.github.io/js-dio/colecoes)
 - [dom-displayMode](https://o-patrick.github.io/js-dio/dom-displayMode)
-- [error-handling](https://o-patrick.github.io/js-dio/error-handling)
+- [error-handling](https://github.com/o-Patrick/js-dio/tree/main/error-handling)
 - [funcoes](https://o-patrick.github.io/js-dio/funcoes)
 - [intro-js](https://o-patrick.github.io/js-dio/intro-js)
 - [js-assincrono](https://o-patrick.github.io/js-dio/js-assincrono)
