@@ -1,0 +1,3 @@
+Programação para Internet com JavaScript
+
+- Linguagem script: linguagem executada em tempo real;

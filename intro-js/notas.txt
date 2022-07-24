@@ -1,0 +1,16 @@
+Sobre{
+	- Linguagem interpretada{
+		- roda em tempo real e o código é disponibilizado instantaneamente;
+		- compiladas trazudem a linguagem para que possar rodar no computador;
+	};
+	- Baseada em protótipos{
+		- Protótipos: conjunto de funções e possibilidades em comum em todas as estruturas de dados;
+	};
+	- Multiparadigma{
+		- Pode escolher entre os tipos de programação POO, funcional ou estruturada;
+	};
+	- Comumente utilizado no client-side;
+	- Segue o padrão ECMAScript (JS não é a única linguagem que segue este padrão);
+};
+
+- Constantes em JS normalmente são escritas completamente em letras maiúsculas;
